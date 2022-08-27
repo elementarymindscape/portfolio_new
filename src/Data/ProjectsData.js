@@ -25,7 +25,7 @@ const ProjectsData = [
     description:
       'A simple portfolio website made using Javascript, ReactJS, TailwindCSS and MaterialUI.',
     github: {
-      frontend: '',
+      frontend: 'https://github.com/elementarymindscape/portfolio_new',
     },
     isHosted: false,
   },

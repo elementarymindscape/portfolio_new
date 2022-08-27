@@ -40,6 +40,7 @@ function Projects() {
                 description={project.description}
                 viewLive={project.hosted}
                 isHosted={project.isHosted}
+                viewCode={project.github.frontend}
               />
             </>
           );
