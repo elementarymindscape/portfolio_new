@@ -1,0 +1,14 @@
+.slider .team-dots {
+  margin-top: 50px !important;
+  width: 12px !important;
+  height: 12px !important;
+  border-radius: 50% !important;
+  list-style: none !important;
+  opacity: 1 !important;
+  background-color: rgb(200, 200, 200, 1);
+}
+
+.slick-active .team-dots {
+  opacity: 1 !important;
+  background-color: #bc0ec4;
+}
